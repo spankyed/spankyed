@@ -6,10 +6,11 @@
 - 💻 is passionate about building quality web apps 
 - 🎮 has a strong passion for game development ...
 - 📖 spends many hours reading documentation ...
+- ⚡ Fun fact: I can play the beginning of two RHCP songs on guitar 😤
+
 
 If I'm not vigoursly typing away in front of a computer, I'm likely cooking a meal 👨‍🍳 or skating at my local skatepark 🛹
 
-- ⚡ Fun fact: I can play the beginning of two RHCP songs on guitar 😤
 
 <!--
 **spankyed/spankyed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
