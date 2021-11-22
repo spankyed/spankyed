@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-#### I'm a Web developer who:
+#### I'm Angel, a web developer who:
 
 - 🦾 works to build clean solutions to complex problems ...
 - 💻 is passionate about building quality web apps 
